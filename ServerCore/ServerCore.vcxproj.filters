@@ -12,5 +12,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
+    <ClInclude Include="Types.h" />
   </ItemGroup>
 </Project>
