@@ -1,6 +1,5 @@
 #pragma once
 
-#include "Types.h"
+#define WIN32_LEAN_AND_MEAN // excluding some of the less common API declarations
 
-#include <iostream>
-using namespace std;
+#include "CorePch.h"
