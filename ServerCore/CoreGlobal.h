@@ -1,6 +1,3 @@
 #pragma once
 
-class CoreGlobal
-{
-};
-
+extern class ThreadManager* GThreadManager;
